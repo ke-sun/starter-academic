@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Industry Experience
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Intern
+    company: Qualcomm
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+    location: Philadelphia PA USA
+    date_start: '2019-06-15'
+    date_end: '2019-08-23'
+    description: Developed motion planning algorithms for an autonomous vehicle to improve passenger comfort.
+
+  - title: Software Intern
+    company: DJI
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Shenzhen Guangdong China
+    date_start: '2013-06-01'
+    date_end: '2013-12-31'
+    description: Developed (probably the first) low-cost monocular visual odometry for indoor hovering of a commercial micro aerial vehicle (DJI Inspire 1).
 ---
