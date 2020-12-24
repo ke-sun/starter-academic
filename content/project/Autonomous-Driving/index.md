@@ -31,7 +31,7 @@ url_video: ""
 ---
 
 This is an on-going research project funded by Qualcomm.
-The goal of the project is advance the motion/behavior planning algorithms for self-driving vehicles.
+The goal of the project is to advance the motion/behavior planning algorithms for self-driving vehicles.
 
 As an initial step, we made the following assumptions to make the problem more accessible:
 

@@ -30,7 +30,7 @@ url_video: ""
 #slides: example
 ---
 
-The project was funded by DARPA (2015-2018).
+The project was funded by [DARPA (2015-2018)](https://www.darpa.mil/program/fast-lightweight-autonomy).
 The goal was to understand the capability of MAVs in navigating unknown cluttered environments rapidly and autonomously using only onboard sensors (GPS-denied) and computation devices (cannot contact ground control for instructions).
 
 Maybe the PIs explained the project better than I did.
