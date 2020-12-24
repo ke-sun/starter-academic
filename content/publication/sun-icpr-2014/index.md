@@ -1,23 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight
+title: An Adaptive-Profile Active Shape Model for Facial-Feature Detection
 subtitle: ''
 summary: ''
 authors:
-- Ke Sun
-- Kartik Mohta
-- Bernd Pfrommer
-- Michael Watterson
-- Sikang Liu
-- Yash Mulgaonkar
-- Camillo J Taylor
-- Vijay Kumar
+- K. Sun
+- H. Zhou
+- K. M. Lam
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2020-12-21T12:44:44-05:00
-featured: true
+date: '2014-01-01'
+lastmod: 2020-12-24T11:42:27-05:00
+featured: false
 draft: false
 
 # Featured image
@@ -33,12 +28,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Fast-Lightweight-Autonomy"]
-publishDate: '2020-12-21T17:53:36.978681Z'
+projects: []
+publishDate: '2020-12-24T16:42:27.367769Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*IEEE Robotics and Automation Letters (RAL)*'
-url_pdf: https://arxiv.org/abs/1712.00036
-url_code: https://github.com/KumarRobotics/msckf_vio
+publication: '*2014 22nd International Conference on Pattern Recognition*'
+doi: 10.1109/ICPR.2014.491
+
+url_pdf: https://ieeexplore.ieee.org/abstract/document/6977204
 ---

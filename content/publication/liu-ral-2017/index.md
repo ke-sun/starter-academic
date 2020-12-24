@@ -1,21 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Stochastic Motion Planning under Partial Observability for Mobile Robots with
-  Continuous Range Measurements
+title: Planning Dynamically Feasible Trajectories for Quadrotors Using Safe Flight
+  Corridors in 3-D Complex Environments
 subtitle: ''
-summary:
+summary: ''
 authors:
-- Ke Sun
-- Brent Schlotfeldt
-- George Pappas
-- Vijay Kumar
+- S. Liu
+- M. Watterson
+- K. Mohta
+- K. Sun
+- S. Bhattacharya
+- C. J. Taylor
+- V. Kumar
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2020-12-21T12:44:43-05:00
-featured: true
-draft:
+date: '2017-01-01'
+lastmod: 2020-12-24T11:42:27-05:00
+featured: false
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -30,11 +33,13 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["Stochastic-Motion-Planning"]
-publishDate: '2020-12-21T17:53:36.592709Z'
+projects: []
+publishDate: '2020-12-24T16:42:27.786391Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Robotics (to appear)*'
-url_pdf: https://arxiv.org/abs/2011.11836
+publication: '*IEEE Robotics and Automation Letters*'
+doi: 10.1109/LRA.2017.2663526
+
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7839930
 ---

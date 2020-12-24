@@ -1,20 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Dense 3-D Mapping with Spatial Correlation via Gaussian Filtering
+title: Trajectory Optimization On Manifolds with Applications to SO(3) and R3XS2
 subtitle: ''
 summary: ''
 authors:
+- Michael Watterson
+- Sikang Liu
 - Ke Sun
-- Kelsey Saulnier
-- Nikolay Atanasov
-- George J Pappas
+- Trey Smith
 - Vijay Kumar
 tags: []
 categories: []
-date: '2018-01-01'
-lastmod: 2020-12-21T12:44:44-05:00
-featured: true
+date: '2018-06-01'
+lastmod: 2020-12-24T11:42:28-05:00
+featured: false
 draft: false
 
 # Featured image
@@ -31,10 +31,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-12-21T17:53:37.185040Z'
+publishDate: '2020-12-24T16:42:28.757292Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*American Control Conference (ACC)*'
-url_pdf: https://arxiv.org/abs/1801.07380
+publication: '*Proceedings of Robotics: Science and Systems*'
+doi: 10.15607/RSS.2018.XIV.023
+
+url_pdf: http://www.roboticsproceedings.org/rss14/p23.html
 ---

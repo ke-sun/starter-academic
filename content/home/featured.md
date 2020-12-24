@@ -25,6 +25,11 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  # Show a "See all" link?
+  archive:
+    enable: true
+    text: See all publications
+
 
 design:
   # Choose a view for the listings:
