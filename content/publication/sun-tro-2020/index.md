@@ -35,7 +35,7 @@ publishDate: '2020-12-24T16:42:29.585993Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IEEE Transactions on Robotics (to appear)*'
+publication: '*IEEE Transactions on Robotics*'
 doi: 10.1109/TRO.2020.3042129
 
 url_pdf: https://arxiv.org/abs/2011.11836

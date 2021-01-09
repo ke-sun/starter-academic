@@ -63,10 +63,10 @@ This work addresses two limitations of [iLQG introduced by van den Burg](https:/
 
 Below highlights belief trajectories planned by our work and some other methods that can be also applied in practice to navigate a car-like robot with Lidar.
 
-|        |        |        |
-| :----: | :----: | :----: |
+|       |       |       |
+| :---: | :---: | :---: |
 |![](./fr101_ilqr_traj.png)|![](fr101_ml_ilqg_traj.png)|![](fr101_ukf_ilqg_traj.png)|
-| iLQR | ML-iLQG | Modified-iLQG (our work) |
+| iLQR                     | ML-iLQG                   | Modified-iLQG (our work)   |
 
 * **iLQR**: The trajectory is optimized with iLQR which only considers motion uncertainty while assumes perfect state infomration.
 
