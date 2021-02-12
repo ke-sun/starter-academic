@@ -74,7 +74,7 @@ Below highlights belief trajectories planned by our work and some other methods 
 
 As the figure shows, the modified iLQG (our work) is able to actively drive the robot along the wall for more accurate localization.
 
-Related publication: [[under review]]()
+Related publication: [[Sun, RAL2021]](https://arxiv.org/abs/2102.05466)
 
 ## **POMCP++: A General POMDP Solver**
 
