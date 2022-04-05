@@ -33,6 +33,6 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*IEEE Robotics and Automation Letters*'
-doi: ''
+doi: '10.1109/LRA.2021.3060716'
 url_pdf: https://arxiv.org/abs/2102.05466
 ---
