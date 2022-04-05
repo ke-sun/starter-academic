@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Software Engineer
+    company: Zoox
+    company_url: ''
+    location: Foster City CA USA
+    date_start: '2021-10-25'
+    date_end: ''
+    description: Working on motion planning algorithms for self-driving vehicles, dealing with uncertainties resulting from different behaviors of other players in the traffic.
+
   - title: Software Intern
     company: Qualcomm
     company_url: ''
