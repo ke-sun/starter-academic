@@ -6,12 +6,12 @@ title: Ke Sun
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate in Electrical and Systems Engineering
+role: Software Engineer 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pennsylvania
-  url: "https://www.upenn.edu/"
+- name: Zoox 
+  url: "https://zoox.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include state estimation and stochastic motion planning with applications to micro aerial and self-driving vehicles.
@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Electrical and Systems Engineering
     institution: University of Pennsylvania
-    year: 2021 (projected)
+    year: 2021 
   - course: MSc in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     year: 2015
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sunke@seas.upenn.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sunke.polyu@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -72,7 +72,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the Electrical and Systems Engineering Department at University of Pennsylvania.
-I am currently working in the GRASP lab supervised by Dr. Vijay Kumar.
+I am a software engineer at Zoox working on motion planning for self-driving vehicles.
+Before that, I am a Ph.D. student in the Electrical and Systems Engineering Department at University of Pennsylvania supervised by Dr. Vijay Kumar. 
 My research interests span from estimation to stochastic control with robotic applications.
 
